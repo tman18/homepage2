@@ -1,0 +1,1 @@
+Hex codes used: #d65a31, #222831
